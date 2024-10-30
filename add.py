@@ -1,4 +1,4 @@
-var1 = 22
-var2 = 12
+var1 = float(input("Enter your first number:"))
+var2 = float(input("Ener your second number:"))
 sum = var1 + var2
-print(sum)
+print("sum is:",sum)
